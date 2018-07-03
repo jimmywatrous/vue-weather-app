@@ -1,6 +1,6 @@
-# vueapp1
+# Vue.JS Weather App
 
-> A Vue.js project
+> Hard coded to receive Los Angeles weather (will change in future.)
 
 ## Build Setup
 
